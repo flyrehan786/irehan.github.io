@@ -6,6 +6,11 @@ body, h3 {
     background: #273747;
     color: #63798F;
 }
+h1 {
+    padding-top: 1em;
+    border-top: 1px solid #324659;
+    text-shadow: 0 0 10px #1D2A36;
+}
 .bg-crimson {
     background-color: crimson;
     color: #fff;
