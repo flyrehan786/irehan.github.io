@@ -1,0 +1,26 @@
+body, h3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    /* font-family: 'Roboto Mono', monospace; */
+
+}
+.bg-crimson {
+    background-color: crimson;
+    color: #fff;
+}
+
+.bg-darkcyan {
+    background-color: darkcyan;
+    color: #fff;
+}
+
+.bg-darkkhaki {
+    background-color: darkkhaki;
+    color: #fff;
+}
+
+.profile-image {
+    width: 180px;
+    border-radius: 90px;
+    margin-top: 40px;
+}
