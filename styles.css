@@ -33,7 +33,7 @@ h1 #span{
     border: 10px solid #055160;
 }
 #img-placeholder {
-    background: url(/assets/img-bg2.png);
+    background: url(./assets/img-bg2.png);
     background-repeat: no-repeat;
     background-position-x: center;
     width: auto;
