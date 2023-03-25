@@ -6,8 +6,8 @@ body, h3 {
     background: #273747;
     color: #63798F;
 }
-h1 {
-    padding-top: 1em;
+h1 #span{
+    padding-top: 20px;
     border-top: 1px solid #324659;
     text-shadow: 0 0 10px #1D2A36;
 }
@@ -29,5 +29,18 @@ h1 {
 .profile-image {
     width: 180px;
     border-radius: 90px;
-    margin-top: 40px;
+    margin-top: 52px;
+    border: 10px solid #055160;
+}
+#img-placeholder {
+    background: url(/assets/img-bg2.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    width: auto;
+    height: 459px;
+    text-align: center;
+    padding-top: 90px;
+    padding-left: 21px;
+    margin: 0 auto;
+    z-index: 0;
 }
