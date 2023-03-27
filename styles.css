@@ -30,7 +30,7 @@ h1 #span{
     width: 180px;
     border-radius: 90px;
     margin-top: 52px;
-    border: 10px solid #055160;
+    border: 3px solid #fff;
 }
 #img-placeholder {
     background: url(./assets/img-bg2.png);
