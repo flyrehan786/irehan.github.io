@@ -58,7 +58,8 @@ h1 #span{
     left: 0;
     text-align: center;
     opacity: 1;
-    background-color: #fff;
+    color: #fff;
+    background-color: #000000;
     z-index: 99;
   }
   
