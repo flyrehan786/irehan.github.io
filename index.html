@@ -255,7 +255,14 @@
             Design by Rehan - All Rights Reserved.
         </div>
         <div id="loading">
-            <h5 style="margin:200px auto">The page is loading ... <br /> <br />Please wait</h5>
+            <h5 style="margin:200px auto">The page is loading ... 
+                <br /> 
+                <br /> 
+                <img src="./assets/loader.gif" alt="" width="45px">
+                <br /> 
+                <br />
+                Please wait
+            </h5>
         </div>
     </div>
     <footer style="position: fixed; bottom: 0; right: 0; background-color: #f0f0f0; padding: 5px; border-radius: 5px 0px 0px 5px;">
@@ -266,7 +273,7 @@
         $(window).load(function () {
             setTimeout(() => {
                 $('#loading').hide();
-            }, 1000);
+            }, 2000);
         });
     </script>
 </body>
