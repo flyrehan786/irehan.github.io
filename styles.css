@@ -3,12 +3,12 @@ body, h3 {
     /* font-size: 20px; */
     /* font-family: 'Roboto Mono', monospace; */
     letter-spacing: 1.5px;
-    background: #273747;
-    color: #63798F;
+    background: #364552;
+    color: #839eb9;
 }
 h1 #span{
     padding-top: 20px;
-    border-top: 1px solid #324659;
+    border-top: 1px solid #232f3b;
     text-shadow: 0 0 10px #1D2A36;
 }
 .bg-crimson {
